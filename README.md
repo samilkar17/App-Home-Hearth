@@ -9,7 +9,7 @@ Aplicación de diagnósticos de anemia y glucemia, desarrollada en [Android Stud
 
 Esta aplicación fue desarrollada con el objetivo de evaluar conceptos básicos de la elaboración de interfaces de alto nivel, Adémas se evalúo la conexión a una base de datos [SQLite](http://https://www.sqlite.org/index.html "SQLite") con el fin de administrar la información de los usuarios
 
-## Librerias
+## Librerías
 
 para la elavoración de este proyecto fue necesario servicios de los cuales permitieron el diseño de interfaces de alto nivel:
 
