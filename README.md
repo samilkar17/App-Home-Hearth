@@ -15,7 +15,6 @@ para la elavoración de este proyecto fue necesario servicios de los cuales perm
 
 ![](https://img.shields.io/badge/material-1.0.0-yellowgreen)
 ![](https://img.shields.io/badge/lottie-3.4.0-yellowgreen)
-
 ![](https://img.shields.io/badge/shapeofview-1.3.2-yellowgreen)
 ![](https://img.shields.io/badge/legacy--support--v4-1.0.0-yellowgreen)
 ![](https://img.shields.io/badge/recyclerview-1.1.0-yellowgreen)
